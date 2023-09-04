@@ -10,7 +10,7 @@ function App() {
       <Greetings />
       <UserData />
       <h2>¡Vamos a crear un botón!</h2>
-      <Button />
+      <Button label="Click" color={32} />
     </div>
   );
 }
